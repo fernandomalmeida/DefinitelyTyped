@@ -415,6 +415,7 @@ declare namespace Chart {
         hideInLegendAndTooltip?: boolean;
         stack?: string;
         spanGaps?: string;
+        showLine?: boolean;
     }
 
     interface ChartScales {
